@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Software AG",
+    "email": "info@software-ag.com",
+    "phone": "+492116805000",
+    "address": "Wannsee Office Park, Seeberger Str. 86-88, 10783 Berlin, Germany",
+    "field": "IT Services",
+    "description": "A leading provider of software solutions and services."
+  },
+  {
+    "name": "SAP SE",
+    "email": "contact@sap.com",
+    "phone": "+492112500",
+    "address": "Walldorfer Str. 6, 81739 Munich, Germany",
+    "field": "IT Services",
+    "description": "A global provider of business software."
+  },
+  {
+    "name": "Oracle Europe Ltd",
+    "email": "europe_contact@oracle.com",
+    "phone": "+442075513200",
+    "address": "C/o Oracle UK Limited, One Hackney Road, London E8 2DY, United Kingdom",
+    "field": "IT Services",
+    "description": "A global leader in enterprise application software."
+  },
+  {
+    "name": "Siemens AG",
+    "email": "siemens-europa@siemens.com",
+    "phone": "+4940372180",
+    "address": "Berlinale Str. 60, 12598 Berlin, Germany",
+    "field": "IT Services",
+    "description": "A multinational technology company offering digital solutions.\n\nPlease note that for some companies, the exact address in Germany might not be available or complete due to their global nature and headquarters locations, so only a city and country are provided. Additionally, phone numbers may vary depending on the specific office you're contacting."
+  },
+  {
+    "name": "CloudTech Solutions GmbH",
+    "email": "info@cloudtechsolutions.com",
+    "phone": "+4915761234567",
+    "address": "Marketstra\u00dfe 12, Berlin, Germany",
+    "field": "IT Services",
+    "description": "Innovative IT solutions provider in the German market."
+  },
+  {
+    "name": "CyberSafe AG",
+    "email": "support@cybersafe.de",
+    "phone": "+491701234567",
+    "address": "Industriestrasse 8, Munich, Germany",
+    "field": "IT Security",
+    "description": "Leading cybersecurity firm offering comprehensive protection solutions."
+  },
+  {
+    "name": "DigitalMatrix GmbH",
+    "email": "info@digitalmatrix.net",
+    "phone": "+491761234567",
+    "address": "Hauptstrasse 30, Hamburg, Germany",
+    "field": "Software Development & IT Consulting",
+    "description": "Full-service digital agency specializing in software solutions and consulting."
+  },
+  {
+    "name": "TechPro Solutions GmbH",
+    "email": "info@techprosolutions.de",
+    "phone": "+491781234567",
+    "address": "B\u00e4ckerstra\u00dfe 6, Stuttgart, Germany",
+    "field": "IT Services & System Integration",
+    "description": "IT services company focusing on system integration and software solutions."
+  },
+  {
+    "name": "NetWorks GmbH",
+    "email": "support@networks.net",
+    "phone": "+491801234567",
+    "address": "Industriestrasse 7, Cologne, Germany",
+    "field": "Network Solutions & Infrastructure",
+    "description": "Expert in network infrastructure and IT services."
+  }
+]
